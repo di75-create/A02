@@ -42,16 +42,16 @@ How to save your changes
 
 
 Part 2: Definitions
-> Branch: Isolated copy of the code for developers to work on without the fear of messing up the code for other developers
-> Clone: Duplicating preexisting code onto another device
-> Commit: Saving a snapshot of your code
-> Fetch: Retrieving data from some greater source
-> GIT: Tracks versions of the code and helps teams manage their work better 
-> Github: Hosts software development and version controls using GIT, and is a central database of many projects
-> Merge: Combining all code into one unified project
-> Merge Conflict: When conflicting changes get made to the same file
-> Push: Sending new information to a codebase 
-> Pull: Requesting information from a preexisting codebase, likely onto ones own codebase
-> Remote: Utilizing a different device to complete the same task. I.e., using a laptop to finish a project at home instead of going to an office to work on it there
-> Repository: Centralized location used to store, locate, manage, and version control all files in a single codebase
+~ Branch: Isolated copy of the code for developers to work on without the fear of messing up the code for other developers
+~ Clone: Duplicating preexisting code onto another device
+~ Commit: Saving a snapshot of your code
+~ Fetch: Retrieving data from some greater source
+~ GIT: Tracks versions of the code and helps teams manage their work better 
+~ Github: Hosts software development and version controls using GIT, and is a central database of many projects
+~ Merge: Combining all code into one unified project
+~ Merge Conflict: When conflicting changes get made to the same file
+~ Push: Sending new information to a codebase 
+~ Pull: Requesting information from a preexisting codebase, likely onto ones own codebase
+~ Remote: Utilizing a different device to complete the same task. I.e., using a laptop to finish a project at home instead of going to an office to work on it there
+~ Repository: Centralized location used to store, locate, manage, and version control all files in a single codebase
 */
