@@ -41,28 +41,29 @@ How to save your changes
 
 
 
-Part 2: Definitions
-~ Branch: Isolated copy of the code for developers to work on without the fear of messing up the code for other developers
+Part 2: Definitions:
 
-~ Clone: Duplicating preexisting code onto another device
+> Branch: Isolated copy of the code for developers to work on without the fear of messing up the code for other developers
 
-~ Commit: Saving a snapshot of your code
+> Clone: Duplicating preexisting code onto another device
 
-~ Fetch: Retrieving data from some greater source
+> Commit: Saving a snapshot of your code
 
-~ GIT: Tracks versions of the code and helps teams manage their work better 
+> Fetch: Retrieving data from some greater source
 
-~ Github: Hosts software development and version controls using GIT, and is a central database of many projects
+> GIT: Tracks versions of the code and helps teams manage their work better 
 
-~ Merge: Combining all code into one unified project
+> Github: Hosts software development and version controls using GIT, and is a central database of many projects
 
-~ Merge Conflict: When conflicting changes get made to the same file
+> Merge: Combining all code into one unified project
 
-~ Push: Sending new information to a codebase 
+> Merge Conflict: When conflicting changes get made to the same file
 
-~ Pull: Requesting information from a preexisting codebase, likely onto ones own codebase
+> Push: Sending new information to a codebase 
 
-~ Remote: Utilizing a different device to complete the same task. I.e., using a laptop to finish a project at home instead of going to an office to work on it there
+> Pull: Requesting information from a preexisting codebase, likely onto ones own codebase
 
-~ Repository: Centralized location used to store, locate, manage, and version control all files in a single codebase
+> Remote: Utilizing a different device to complete the same task. I.e., using a laptop to finish a project at home instead of going to an office to work on it there
+
+> Repository: Centralized location used to store, locate, manage, and version control all files in a single codebase
 */
